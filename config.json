@@ -1,5 +1,14 @@
 {
     "appName": "火箭云",
     "apiUrl": "https://xixi003.hjbuy.top",
-    "appDescription": "火箭云官方QQ群：958403613"
+    "appDescription": "火箭云官方QQ群：958403613",
+    "customMessages": [
+        {
+            "id": "custom-1",
+            "title": "系统维护通知",
+            "content": "我们将于本周六凌晨 2:00 进行系统维护，预计耗时 2 小时，期间服务可能会中断。",
+            "type": "info",
+            "date": "2023-12-12"
+        }
+    ]
 }
